@@ -4,7 +4,9 @@ A warm, responsive artisan bakery website created as a static front-end project 
 
 ## Live 
 
-Live  `(https://malavikasubhash170-prog.github.io/FUTURE_FS_03/)`
+
+[**Visit Crumb & Co. — Artisan Bakery**](https://malavikasubhash170-prog.github.io/FUTURE_FS_03/)
+
 
 ## Features
 
