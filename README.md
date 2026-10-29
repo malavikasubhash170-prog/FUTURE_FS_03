@@ -100,3 +100,11 @@ On Windows, use **Win + Shift + S**, select the area, then save the screenshot a
 ## Project note
 
 Crumb & Co. is a fictional portfolio concept. Product names, reviews, address, contact details, and order flow are sample content. Replace sample details or clearly label them as a demo before presenting the site as a real business website.
+
+## Author
+
+**Malavika Subhash**
+
+GitHub: https://github.com/malavikasubhash170-prog
+
+LinkedIn:https://www.linkedin.com/in/malavika-subhash/
