@@ -2,9 +2,9 @@
 
 A warm, responsive artisan bakery website created as a static front-end project for **Future Interns Task 3: Local Business Website & Live Pitch Project**.
 
-## Live demo
+## Live 
 
-After enabling GitHub Pages, add your published URL here: `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`
+Live  `(https://malavikasubhash170-prog.github.io/FUTURE_FS_03/)`
 
 ## Features
 
